@@ -1,0 +1,5 @@
+2022/06/03 05:57:36 AzcopyVersion  10.15.0
+2022/06/03 05:57:36 OS-Environment  linux
+2022/06/03 05:57:36 OS-Architecture  amd64
+2022/06/03 05:57:36 Log times are in UTC. Local time is 3 Jun 2022 05:57:36
+2022/06/03 05:57:36 ISO 8601 START TIME: to copy files that changed before or after this job started, use the parameter --include-before=2022-06-03T05:57:31Z or --include-after=2022-06-03T05:57:31Z

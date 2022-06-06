@@ -1,0 +1,6 @@
+2022/06/03 05:58:35 AzcopyVersion  10.15.0
+2022/06/03 05:58:35 OS-Environment  linux
+2022/06/03 05:58:35 OS-Architecture  amd64
+2022/06/03 05:58:35 Log times are in UTC. Local time is 3 Jun 2022 05:58:35
+2022/06/03 05:58:35 Failed to scan path /root/C:\local\path: stat /root/C:\local\path: no such file or directory
+2022/06/03 05:58:35 Closing Log
